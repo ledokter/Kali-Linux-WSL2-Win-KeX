@@ -1,0 +1,13 @@
+# Fichiers temporaires Windows
+Thumbs.db
+*.tmp
+*.log
+
+# Fichiers temporaires Linux
+*~
+*.swp
+.DS_Store
+
+# Fichiers de configuration locaux
+*.local
+config.local.*
